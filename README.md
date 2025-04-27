@@ -1,2 +1,1 @@
-# PHISHING DETECTION USING MACHINE LEARNING PROJECT
-This is a end to end project
+
